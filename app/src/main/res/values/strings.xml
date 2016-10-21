@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Blood Bank</string>
+    <string name="action_settings">Settings</string>
+    <string name="email_required">Email is required</string>
+    <string name="phone_incorrect">Phone number Incorrect</string>
+    <string name="email_incorrect">Email is Invalid</string>
+    <string name="name_required">Name is required</string>
+    <string name="district_required">District is required</string>
+    <string name="blood_required">Blood is required</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="phone_required">Phone is required</string>
+    <!-- Names -->
+    <string-array name="Member_names">
+        <item>Krishna Prasad</item>
+        <item>Hari Nandha</item>
+        <item>Akil Ayyapan</item>
+        <item>Kaushik Kumar</item>
+        <item>Hari Prasath</item>
+        <item>Kamalan</item>
+    </string-array>
+
+
+
+
+
+    <!-- contact type -->
+    <string-array name="statues">
+        <item>Private User</item>
+        <item>Private User</item>
+        <item>Private User</item>
+        <item>Private User</item>
+        <item>Private User</item>
+        <item>Private User</item>
+    </string-array>
+</resources>

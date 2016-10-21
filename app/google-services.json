@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "599781117255",
+    "firebase_url": "https://fir-blood-bank.firebaseio.com",
+    "project_id": "firebase-blood-bank",
+    "storage_bucket": "firebase-blood-bank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599781117255:android:d009416479447bb8",
+        "android_client_info": {
+          "package_name": "com.escape.reality.bloodeagle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599781117255-thgqaoveqbriv2ra7m0edh4v18u47lpo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.escape.reality.bloodeagle",
+            "certificate_hash": "1299D1318A34D38158A6635F3146D935FD479CDB"
+          }
+        },
+        {
+          "client_id": "599781117255-gmscq7ap53tc5qf0l7ig1qp2pjbg9ohk.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "599781117255-ap11rbrp5f8pccdhdm7en4d3teghtv22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcIzq9xFaeDeJsbv4-mIVcL9ZEEsXR_N8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599781117255-gmscq7ap53tc5qf0l7ig1qp2pjbg9ohk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
